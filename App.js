@@ -8,10 +8,10 @@ export default function App() {
       <View style={styles.messageContent}>
       </View> 
       <View style={styles.toolbarSpace}>
-        <Text>Isko Abelardo</Text>
+        <Text>Edralyn Peralta</Text>
       </View>
       <View style={styles.inputMethod}>
-        <Text>SADBOYS</Text>
+        <Text>Ordinals</Text>
       </View>
     </View>
   );
